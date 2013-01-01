@@ -17,7 +17,7 @@ import javax.microedition.sensor.DataListener;
 import javax.microedition.sensor.SensorInfo;
 import javax.microedition.sensor.SensorConnection;
 import javax.microedition.sensor.SensorManager;
-
+//
 public class ArrowKeys extends MIDlet implements CommandListener, DataListener {
     private static final int BUFFER_SIZE = 1;
     private static final boolean IS_TRIGGERING_EVENT_ALWAYS = false;
