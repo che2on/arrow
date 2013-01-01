@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Nokia
+MIDlet-Jar-URL: ArrowKeys.jar
+MicroEdition-Configuration: CLDC-1.0
+Nokia-MIDlet-App-Orientation: portrait
+MicroEdition-Profile: MIDP-2.1
+MIDlet-1: ArrowKeys,,com.nokia.example.ArrowKeys
+MIDlet-Name: ArrowKeys
